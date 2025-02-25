@@ -1,0 +1,98 @@
+[
+  {
+    "ContainingType": "Fido2Apis.Application.Apis.Fido2Auth.Fido2AuthenticationController",
+    "Method": "RegistrationFinish",
+    "RelativePath": "v1/api/fido2/authentication/finish",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authenticatorAssertionRawResponse",
+        "Type": "Fido2NetLib.AuthenticatorAssertionRawResponse",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fido2Apis.Application.Apis.Fido2Auth.Fido2AuthenticationController",
+    "Method": "AuthenticationInitiate",
+    "RelativePath": "v1/api/fido2/authentication/initiate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fido2AuthenticationRequest",
+        "Type": "Fido2Apis.Application.Apis.Fido2Auth.Fido2AuthenticationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fido2Apis.Application.Apis.Fido2Auth.Fido2RegistrationController",
+    "Method": "RegistrationFinish",
+    "RelativePath": "v1/api/fido2/registration/finish",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authenticatorAttestationRawResponse",
+        "Type": "Fido2NetLib.AuthenticatorAttestationRawResponse",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fido2Apis.Application.Apis.Fido2Auth.Fido2RegistrationController",
+    "Method": "RegistrationInitiate",
+    "RelativePath": "v1/api/fido2/registration/initiate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fido2RegistrationRequest",
+        "Type": "Fido2Apis.Application.Apis.Fido2Auth.Fido2RegistrationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fido2Apis.Application.Apis.User.UserAuthenticationController",
+    "Method": "Authenticate",
+    "RelativePath": "v1/api/user/authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userAuthenticationRequest",
+        "Type": "Fido2Apis.Application.Apis.User.UserAuthenticationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fido2Apis.Application.Apis.User.UserRegistrationController",
+    "Method": "Register",
+    "RelativePath": "v1/api/user/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRegistrationRequest",
+        "Type": "Fido2Apis.Application.Apis.User.UserRegistrationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

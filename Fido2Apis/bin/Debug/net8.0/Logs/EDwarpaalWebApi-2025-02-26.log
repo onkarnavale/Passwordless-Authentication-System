@@ -1,0 +1,5 @@
+2025-02-26 00:10:59.2487|14|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Now listening on: https://localhost:7006
+2025-02-26 00:10:59.4641|14|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Now listening on: http://localhost:5259
+2025-02-26 00:10:59.7773|0|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Application started. Press Ctrl+C to shut down.
+2025-02-26 00:10:59.7773|0|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Hosting environment: Development
+2025-02-26 00:10:59.7773|0|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Content root path: D:\password less\Passwordless-Authentication-System\Fido2Apis

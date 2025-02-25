@@ -1,0 +1,10 @@
+2025-02-19 00:13:50.8453|14|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Now listening on: https://localhost:7006
+2025-02-19 00:13:50.9503|14|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Now listening on: http://localhost:5259
+2025-02-19 00:13:51.0731|0|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Application started. Press Ctrl+C to shut down.
+2025-02-19 00:13:51.0731|0|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Hosting environment: Development
+2025-02-19 00:13:51.0731|0|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Content root path: D:\Own Projects\Fido2Apis\Fido2Apis
+2025-02-19 23:55:41.4894|14|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Now listening on: https://localhost:7006
+2025-02-19 23:55:41.5959|14|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Now listening on: http://localhost:5259
+2025-02-19 23:55:41.7330|0|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Application started. Press Ctrl+C to shut down.
+2025-02-19 23:55:41.7330|0|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Hosting environment: Development
+2025-02-19 23:55:41.7330|0|INFO|Microsoft.Hosting.Lifetime |url: |action:  |Content root path: D:\Own Projects\Fido2Apis\Fido2Apis
